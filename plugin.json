@@ -1,0 +1,30 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "social-video-tracker",
+  "displayName": "Social Video Tracker",
+  "version": "1.0.0",
+  "description": "Track monthly TikTok and Facebook channel video counts, views, likes, and comments with Apify Free-tier ($5/mo) budget controls and Google Sheets sync/export.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Open Social Video Tracker to view this month's video and view analytics",
+    "Sync my TikTok and Facebook channels from a Google Sheet into Social Video Tracker",
+    "Export this month's Social Video Tracker report to a new monthly tab in Google Sheets"
+  ],
+  "author": {
+    "name": "Nguyen Tien Dung",
+    "url": "https://github.com/tiendung95tb"
+  },
+  "homepage": "https://github.com/tiendung95tb/social-video-tracker",
+  "repository": "https://github.com/tiendung95tb/social-video-tracker",
+  "license": "MIT",
+  "keywords": [
+    "tiktok",
+    "facebook",
+    "reels",
+    "analytics",
+    "apify",
+    "google-sheets",
+    "marketing",
+    "mcp-app"
+  ]
+}

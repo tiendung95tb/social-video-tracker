@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "tracker": {
+      "command": "bash",
+      "args": [
+        "${PLUGIN_ROOT}/scripts/social-video-tracker",
+        "--data-dir=${PLUGIN_DATA}"
+      ]
+    }
+  }
+}
